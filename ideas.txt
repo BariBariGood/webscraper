@@ -1,0 +1,12 @@
+table: user
+- property: followers
+
+table: tweet
+- property: text
+- property: likes
+- property: shares
+- property: comments
+- property: date
+
+table: hashtag
+- property: trendiness
